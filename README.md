@@ -1,0 +1,2 @@
+# Building-A-Shell
+The OS command interpreter is the program that people interact with in order to launch and control programs. On UNIX systems, the command interpreter is often called shell: a user-level program that gives people a command-line interface to launching, suspending, and killing other programs. sh, ksh, csh, tcsh, bash, ... are all examples of UNIX shells. You use a shell like this every time you log into a Linux machine at a URCS computer lab and bring up a terminal. It might be useful to look at the manual pages of these shells, for example, type "man bash". 
